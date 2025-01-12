@@ -122,19 +122,5 @@ Contributions are welcome! Here's how you can help:
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## 👨‍💻 Author
 
-**Akash Kumar**
-- GitHub: [@TechWithAkash](https://github.com/TechWithAkash)
 
-## 🙏 Acknowledgments
-
-- [Oxford 102 Flower Dataset](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/)
-- [TensorFlow Team](https://www.tensorflow.org/)
-- [Flask Team](https://flask.palletsprojects.com/)
-
-## 📞 Contact
-
-- **Akash Kumar**
-- Email: [vishwakarmaakshav17@gmail.com]
-- Project Link: [https://github.com/TechWithAkash/Plant_Specis_Detection_using_CNN](https://github.com/TechWithAkash/Plant_Specis_Detection_using_CNN)
